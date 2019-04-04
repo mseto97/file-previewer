@@ -1,0 +1,29 @@
+[
+  {
+    "fullpath": "/path/image.png",
+    "type": "image",
+    "metadata": {
+    }
+  },
+  
+  {
+    "fullpath": "/path/test/movie.mov",
+    "type": "video",
+    "metadata": {
+    }
+  },
+  
+  {
+    "fullpath": "/path/test/the-book-thief.pdf",
+    "type": "document",
+    "metadata": {
+    }
+  },
+  
+  {
+    "fullpath": "/path/test/song.mp3",
+    "type": "audio",
+    "metadata": {
+    }
+  }
+]

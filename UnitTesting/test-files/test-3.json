@@ -1,0 +1,41 @@
+[
+  {
+    "fullpath": "videos/movies/mamma-mia.mov",
+    "type": "video",
+    "metadata": {
+	"creator": "John Smith",
+	"resolution": "1024x768",
+	"runtime": "78:23"
+    }
+  },
+  
+  {
+    "fullpath": "/videos/movies/harry-potter.mov",
+    "type": "video",
+    "metadata": {
+	"creator": "Mary Duncan",
+	"resolution": "500x768",
+	"runtime": "118:56"
+    }
+  },
+  
+  {
+    "fullpath": "/videos/movies/die-hard.mov",
+    "type": "video",
+    "metadata": {
+	"creator": "Paul Crane",
+	"resolution": "600x500",
+	"runtime": "86:32"
+    }
+  },
+  
+  {
+    "fullpath": "/videos/movies/tangled.mov",
+    "type": "video",
+    "metadata": {
+	"creator": "Hamza Bennani",
+	"resolution": "398x456",
+	"runtime": "65:56"
+    }
+  }
+]

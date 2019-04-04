@@ -1,0 +1,33 @@
+[
+  {
+    "fullpath": "/documents/books/the-book-thief.pdf",
+    "type": "document",
+    "metadata": {
+      "creator": "Markus Zusak"
+    }
+  },
+  
+  {
+    "fullpath": "/documents/reports/mid-year-sales.docx",
+    "type": "document",
+    "metadata": {
+      "creator": "Mary Duncan"
+    }
+  },
+  
+  {
+    "fullpath": "/documents/books/lord-of-the-rings.epub",
+    "type": "document",
+    "metadata": {
+	"creator": "J.R.R. Tolkien"
+    }
+  },
+  
+  {
+    "fullpath": "/documents/books/my-sisters-keeper.pdf",
+    "type": "document",
+    "metadata": {
+      "creator": "Jodi Picoult"
+    }
+  }
+]

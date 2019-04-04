@@ -1,0 +1,54 @@
+[
+  {
+    "fullpath": "~/Library/Application Support/MediaApp/assignment-report.pdf",
+    "type": "document",
+    "metadata": {
+    "creator": "Daniela and Megan",
+	"description": "Dani and Meg's assignment report",
+	"notes": "Gives more details about features"
+    }
+  },
+ 
+ {
+ "fullpath": "~/Library/Application Support/MediaApp/jellyfish.mov",
+ "type": "video",
+ "metadata": {
+ "creator": "Megan",
+ "resolution": "1080x720",
+ "runtime": "00:15",
+ "description": "A jellyfish in the Singapore aquarium",
+ "notes": "",
+ "location": "Singapore"
+ }
+ },
+ 
+ {
+ "fullpath": "~/Library/Application Support/MediaApp/majestic-cloud-pic.png",
+ "type": "document",
+ "metadata": {
+ "creator": "Megan",
+ "description": "Cloudy sunset on Signal Hill",
+ "notes": "Shot in Dunedin"
+ }
+ },
+ 
+ {
+     "fullpath": "~/Library/Application Support/MediaApp/service-bell_daniel_simion.m4a",
+     "type": "audio",
+     "metadata": {
+         "creator": "SoundBible.com",
+         "runtime": "00:05",
+         "description": "Sourced from SoundBible.com",
+         "notes": "service-bell_daniel_simion"
+     }
+ },
+ 
+ {
+ "fullpath": "~/Library/Application Support/MediaApp/lorem-ipsum.txt",
+ "type": "document",
+ "metadata": {
+ "creator": "Unknown",
+ "description": "Placeholder text",
+ }
+ }
+]

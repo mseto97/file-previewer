@@ -1,0 +1,39 @@
+[
+  {
+    "fullpath": "/path/image.png",
+    "type": "image",
+    "metadata": {
+	"creator": "John Smith",
+	"colour": "rgb"
+    }
+  },
+  
+  {
+    "fullpath": "/path/test/movie.mov",
+    "type": "video",
+    "metadata": {
+	"creator": "Mary Duncan",
+	"resolution": "1024x768",
+	"runtime": "119:23",
+	"studio": "disney"
+    }
+  },
+  
+  {
+    "fullpath": "/path/test/the-book-thief.pdf",
+    "type": "document",
+    "metadata": {
+	"publisher": "Penguin"
+    }
+  },
+  
+  {
+    "fullpath": "/path/test/song.mp3",
+    "type": "audio",
+    "metadata": {
+	"creator": "The Smiths",
+	"runtime": "03:45",
+	"studio": "Golden Records"
+    }
+  }
+]

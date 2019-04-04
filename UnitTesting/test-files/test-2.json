@@ -1,0 +1,37 @@
+[
+  {
+    "fullpath": "/path/image.png",
+    "type": "image",
+    "metadata": {
+      "creator": "John Smith",
+      "resolution": "1024x768"
+    }
+  },
+  
+  {
+    "fullpath": "/images/p2.jpg",
+    "type": "image",
+    "metadata": {
+      "creator": "Mary Duncan",
+      "resolution": "500x768",
+    }
+  },
+  
+  {
+    "fullpath": "/images/birthday/cake.png",
+    "type": "image",
+    "metadata": {
+	"creator": "Paul Crane",
+	"resolution": "600x500"
+    }
+  },
+  
+  {
+    "fullpath": "/images/family/family-photo.png",
+    "type": "image",
+    "metadata": {
+      "creator": "Hamza Bennani",
+      "resolution": "398x456"
+    }
+  }
+]

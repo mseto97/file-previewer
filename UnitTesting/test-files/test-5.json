@@ -1,0 +1,37 @@
+[
+  {
+    "fullpath": "/music/freaky-friday.mp3",
+    "type": "audio",
+    "metadata": {
+	"creator": "Chris Brown",
+	"runtime": "04:56"
+    }
+  },
+  
+  {
+    "fullpath": "/music/drax-project/only-us.mp3",
+    "type": "audio",
+    "metadata": {
+	"creator": "Drax Project",
+	"runtime": "03:56"
+    }
+  },
+  
+  {
+    "fullpath": "/music/clouds-and-cream.mp3",
+    "type": "audio",
+    "metadata": {
+	"creator": "Sticky Fingers",
+	"runtime": "03:44"
+    }
+  },
+  
+  {
+    "fullpath": "/music/go-flex.mp3",
+    "type": "audio",
+    "metadata": {
+	"creator": "Post Malone",
+	"runtime": "3:02"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+{
+    
+  {
+    "fullpath": "/path/test/the-book-thief.pdf",
+    "type": "document",
+    "metadata": {
+	"creator": "Markus Zusak"
+	"publisher": "Penguin"
+    }
+  },
+
+    {
+    "fullpath": "",
+    "type": "",
+    "metadata": {
+	"creator": "Markus Zusak"
+	"publisher": "Penguin"
+    }
+    },
+
+   {
+    "fullpath": "/path/test/the-book-thief.pdf",
+    "type": "fake",
+    "metadata": {
+	"creator": "Markus Zusak"
+	"publisher": "Penguin"
+    }
+   },
+
+      {
+    "fullpath": "",
+    "type": "fake",
+    "metadata": {
+	"creator": "Markus Zusak"
+	"publisher": "Penguin"
+    }
+      }
+}
