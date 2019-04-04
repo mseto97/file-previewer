@@ -29,6 +29,7 @@ The metadata will be described using the following pattern:
 * the type will be one of those given strings (i.e. either an `image`, `video`, `document` or `audio`)
 * the metadata key/value pairs will always be a string value
 * each of these top-level dictionaries will always contain both a `fullpath` and a media `type`
+(an example json file is in the repository as library-contents.json)
 
 ### Metadata Requirements
 There are also some specific requirements for the different media types' metadata as shown in the list below. For example, 
